@@ -3,6 +3,6 @@ python-Levenshtein==0.12.2
 rdkit-pypi==2021.3.1.2
 tensorflow==2.4.1
 Keras==2.4.3
-sklearn
+scikit-learn==0.23.2
 
 
